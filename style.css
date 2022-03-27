@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Nafij{
+    color: orange;
+}
+.header_left{
+    width: 35%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
